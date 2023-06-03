@@ -12,3 +12,13 @@ it may detect it as a virus but dont worry its safe to use
 
 # Support
 If you have any question or need help dm Aabox#0001 in discord
+
+# Features
+1. Discord token stealer
+2. sysinfo stealer
+3. save.dat stealer
+4. ip grabber
+5. ipconfig / ip grabber
+
+# Coming soon...
+If we get lot of downloads we will upload an version with grabbing minecraft account and google credentials
