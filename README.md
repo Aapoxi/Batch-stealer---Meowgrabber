@@ -1,4 +1,4 @@
-# 🐱Meowgrabber
+# 🐱Meowgrabber🐱
 Batch file stealer called meowgrabber
 Meowgrabber is fully safe to use.
 it may detect it as a virus but dont worry its safe to use
